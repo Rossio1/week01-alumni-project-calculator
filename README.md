@@ -12,3 +12,7 @@ The objective of this project is to build an OOP concept calculator. I built a c
 ## Lesson Learned
 
 I learned to create an instance of the class called `calc` to access the class Calculator methods. Also when to appropiate use a constructor, which in this case is not needed because there is no need for storing data. We only need to call on the methods.
+
+## Optimization
+
+Still a work in progress.
